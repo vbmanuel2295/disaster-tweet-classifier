@@ -1,7 +1,7 @@
 # disaster-tweet-classifier
 A sample machine learning model for classifying tweets related to disasters. 
 
-This section contains a simple implementation of hate speech classification model on top of JavaScript using the following technologies:
+This section contains a simple implementation of disaster related tweets classification model on top of JavaScript using the following technologies:
 
  - NodeJS
  - Natural JS
