@@ -16,7 +16,7 @@ Big thanks from [Kaggle](https://www.kaggle.com/) for the dataset.
 
 
 ## Sample Results
-The classifier produced the following results: (Not bad for beginners!)
+The classifier produced the following results:
 ```sh
 Inferring Item 1728 out of 1728
 Accurate: 1244 items
@@ -24,3 +24,4 @@ Missed: 484 items
 Accuracy: 71.99
 Error Rate: 28.01
 ```
+Not bad for starters!
